@@ -3,7 +3,7 @@
  <p>Oluşturduğum Web Sitesinin Linki: kedyblog.orgfree.com</p>
  
 # Anasayfa
-![anasayfa](https://user-images.githubusercontent.com/90787721/227057257-326858ea-4bd3-474a-b032-4138e5e69a77.png)
+![image](https://user-images.githubusercontent.com/90787721/227058251-f20aa4c3-5ed0-4053-a91d-327c737ef47c.png)
 
 # Kedi isimleri Rehberi
 ![isim1](https://user-images.githubusercontent.com/90787721/227057421-3cff261c-0e45-4dd8-8e1e-9c4881c693f0.png)
